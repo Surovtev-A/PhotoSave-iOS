@@ -2,7 +2,13 @@
 
 PhotoSave — это iOS-приложение, представляющее собой приватное фотохранилище. Оно позволяет пользователям сохранять свои фотографии и заметки к ним в галерее, защищенной паролем.
 
-*(Рекомендую вставить сюда скриншоты или GIF-анимацию, демонстрирующую экраны входа, регистрации, главной галереи и добавления фото)*
+<img src="https://github.com/user-attachments/assets/a804274d-d32d-4060-a711-49ded5edb690" width="200" />
+<img src="https://github.com/user-attachments/assets/79df99bb-c5f9-4a34-a7d6-32bb2deadaa6" width="200" />
+<img src="https://github.com/user-attachments/assets/e2b08bfc-0443-434a-9bbf-867b713d3729" width="200" />
+<img src="https://github.com/user-attachments/assets/c1e8c094-fff2-49dd-9b68-d978b373d137" width="200" />
+<img src="https://github.com/user-attachments/assets/791b393b-522c-46e8-a8d6-7156b0f0d810" width="200" />
+
+
 
 ---
 
